@@ -8,7 +8,8 @@ If you find this approach useful, you can cite the paper as
       author = "Christian Clason and Armin Rund and Karl Kunisch and Barnard, Richard C.",
       title = "A convex penalty for switching control of partial differential equations",
       journal = "Systems \& Control Letters",
-      volume = "forthcoming",
-      year = "2015",
+      volume = "89",
+      pages = "66--73",
+      year = "2016",
       doi = "10.1016/j.sysconle.2015.12.013"
     }
